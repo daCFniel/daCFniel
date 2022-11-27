@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m Daniel
-- Currently working at
+Currently working at
 `mobile app for solving jigsaw puzzles using computer vision and machine learning` 🧩📱🤖
 
 <!---
