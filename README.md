@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m Daniel
 Currently working on
-- Jigsaw Hints app - `solving jigsaw puzzles using computer vision and machine learning` 🧩🤖
-- Smart Birthday Calendar app - `smart suggestions using deep learning langauge models` 🗓️💡
+- Jigsaw Hints app - `solving Jigsaw Puzzles using Computer Vision and Convolutional Neural Networks` 🧩🤖
+- Smart Birthday Calendar app - `giving smart suggestions using Transformer Language Models` 🗓️💡
 
 <!---
 daCFniel/daCFniel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
