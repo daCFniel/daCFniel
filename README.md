@@ -9,6 +9,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ⭐ Projects
-- Tripid Attack 👽 https://www.youtube.com/watch?v=fqW41IrOntE
-- Sketching App 🖌️ https://www.youtube.com/shorts/jJoSRe_ipuw
-- Space Bottle 🚀 https://www.youtube.com/watch?v=-vpUiq7EXH8&t=38s
+- Tripid Attack 👽 - [Trailer](https://youtu.be/1hxa4TUlKZc)
+- Sketching App 🖌️- [Demo](https://youtube.com/shorts/SyKboHzjML8)
+- Space Bottle 🚀- [Gameplay](https://youtu.be/wN6CFHotfnA)
