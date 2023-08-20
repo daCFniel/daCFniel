@@ -7,7 +7,7 @@ daCFniel/daCFniel is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-<img align="right" alt="GIF" src="https://github.com/daCFniel/daCFniel/blob/main/readme.gif?raw=true" width="307" height="230" />
+<img align="right" alt="GIF" src="https://github.com/daCFniel/daCFniel/blob/7d6c54a4f4983267121998942f61d0c0f32a8b56/gifs/dino.gif" width="600" height="230" />
 
 **⭐ Projects**
 - Tripid Attack 👽 - [Trailer](https://youtu.be/1hxa4TUlKZc)
